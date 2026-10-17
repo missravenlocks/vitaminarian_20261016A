@@ -1,0 +1,6 @@
+{
+  "name": "Vitaminarian",
+  "description": "Professional customizable nutrition tracking app with detailed food, meal, and micronutrient breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
